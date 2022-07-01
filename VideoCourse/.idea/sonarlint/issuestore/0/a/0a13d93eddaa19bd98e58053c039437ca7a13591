@@ -1,0 +1,24 @@
+
+v
+java:S2293)"YReplace the type specification in this constructor call with the diamond operator ("<>").(Àéİ¿8·¨Ïü‘0
+}
+java:S1104"[Make readStringCount a static final constant or non-public and provide accessors if needed.(ß‡‚»şÿÿÿÿ8·¨Ïü‘0
+o
+java:S1104"RMake reader a static final constant or non-public and provide accessors if needed.(¼Åô8·¨Ïü‘0
+W
+java:S1444"5Make this "public static readStringCount" field final(ß‡‚»şÿÿÿÿ8·¨Ïü‘0
+I
+java:S1444",Make this "public static reader" field final(¼Åô8·¨Ïü‘0
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œÔ±Ñ
+y
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ß‡‚»şÿÿÿÿ8æ¨Ïü‘0
+t
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(¼Åô8æ¨Ïü‘0
+E	java:S108")Either remove or fill this block of code.(ËÀ×8æ¨Ïü‘0
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(ŞØÙï8æ¨Ïü‘0
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(—è²“øÿÿÿÿ8æ¨Ïü‘0
+T	java:S106#"9Replace this use of System.out or System.err by a logger.(¯œõX8æ¨Ïü‘0
+W
+java:S1161;":Add the "@Override" annotation above this method signature(“–ış8ö¨Ïü‘0
+]	java:S125+"<This block of commented-out lines of code should be removed.(áíüÈùÿÿÿÿ8ö¨Ïü‘0
+U	java:S106E"9Replace this use of System.out or System.err by a logger.(ô›û¡8ö¨Ïü‘0

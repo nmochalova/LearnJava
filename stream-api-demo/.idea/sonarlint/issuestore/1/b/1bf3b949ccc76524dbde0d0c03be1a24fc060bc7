@@ -1,0 +1,27 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(È ¢÷øÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ó©²¯š0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¸áË§şÿÿÿÿ8ô©²¯š0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(½İ¿8õ©²¯š0
+Q
+java:S1611"/Remove the parentheses around the "e" parameter(ß¿ºàüÿÿÿÿ8õ©²¯š0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ß¿ºàüÿÿÿÿ8ö©²¯š0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ö©²¯š0
+Q
+java:S1611"/Remove the parentheses around the "p" parameter(åˆÊúÿÿÿÿ8÷©²¯š0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(£Ğüºüÿÿÿÿ8ù©²¯š0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ú©²¯š0
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(®½Òïşÿÿÿÿ8ú©²¯š0
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(Ë„óšşÿÿÿÿ8û©²¯š0
+>
+java:S3864$"!Remove this use of "Stream.peek".(ö´éØ8Ù¢³¯š0
+L
+java:S1611$"/Remove the parentheses around the "e" parameter(ö´éØ8ü©²¯š0
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(ö´éØ8ü©²¯š0
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(Îö©üÿÿÿÿ8ı©²¯š0
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(·ÅÇ•ùÿÿÿÿ8ÿ©²¯š0
+C
+java:S3864*"!Remove this use of "Stream.peek".(´ª¾èúÿÿÿÿ8ß¢³¯š0
+Q
+java:S1611*"/Remove the parentheses around the "p" parameter(´ª¾èúÿÿÿÿ8€ª²¯š0
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(ËÃëøÿÿÿÿ8ª²¯š0

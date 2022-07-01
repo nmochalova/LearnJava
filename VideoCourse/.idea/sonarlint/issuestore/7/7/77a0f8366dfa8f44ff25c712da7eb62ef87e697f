@@ -1,0 +1,7 @@
+
+l
+java:S1192"ODefine a constant instead of duplicating this literal "Ğ’Ğ°ÑĞ¸Ğ»Ğ¸Ğ¹" 3 times.(ùÙÄÍ8‹–äÒ‰0
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œÔ±Ñ
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(Õãòú8¥–äÒ‰0
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(İÌ¶áşÿÿÿÿ8¦–äÒ‰0
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(üïÕ8¦–äÒ‰0

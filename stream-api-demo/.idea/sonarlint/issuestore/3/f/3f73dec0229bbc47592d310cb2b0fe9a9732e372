@@ -1,0 +1,10 @@
+
+b	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(á»ÅÙ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Š•®š0
+T	java:S106"9Replace this use of System.out or System.err by a logger.(©««t8‹•®š0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ù¹…‘8•®š0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÑÊÜıüÿÿÿÿ8•®š0
+Q
+java:S1611"/Remove the parentheses around the "s" parameter(È”¹µıÿÿÿÿ8•®š0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Â¢Ä¸8•®š0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(­”µ¦üÿÿÿÿ8‘•®š0

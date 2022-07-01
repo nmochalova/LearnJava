@@ -1,0 +1,18 @@
+
+…
+java:S1319"hThe type of "hexToBinary" should be an interface such as "Map" rather than the implementation "HashMap".(ÔÁ«ó8«íí¨‡0
+Š
+java:S1319"hThe type of "binaryToHex" should be an interface such as "Map" rather than the implementation "HashMap".(æ–Œæøÿÿÿÿ8«íí¨‡0
+9
+java:S1643"Use a StringBuilder instead.(ö Öû8–Öì¨‡0
+9
+java:S1643$"Use a StringBuilder instead.(ğÆ8¬íí¨‡0
+9
+java:S16435"Use a StringBuilder instead.(êö¸8¬íí¨‡0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™ŞÙÏùÿÿÿÿ
+:
+java:S2386"Make this member "protected".(ÔÁ«ó8Èíí¨‡0
+?
+java:S2386"Make this member "protected".(æ–Œæøÿÿÿÿ8Éíí¨‡0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Å‹±Ùüÿÿÿÿ8³Öì¨‡0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÈˆÅ·8³Öì¨‡0

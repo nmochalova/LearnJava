@@ -1,0 +1,17 @@
+
+n
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(òÂãg
+f
+java:S1104"QMake lines a static final constant or non-public and provide accessors if needed.(òÂãg
+p
+java:S1104"UMake FILE_NAME a static final constant or non-public and provide accessors if needed.(äÄˆÕÿÿÿÿÿ
+@
+java:S1444"+Make this "public static lines" field final(òÂãg
+J
+java:S1444"/Make this "public static FILE_NAME" field final(äÄˆÕÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œÔ±Ñ
+o
+java:S3008"TRename this field "FILE_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÄˆÕÿÿÿÿÿ
+2
+java:S2386"Make this member "protected".(òÂãg
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÎıĞòüÿÿÿÿ

@@ -1,0 +1,27 @@
+
+`
+java:S1192"JDefine a constant instead of duplicating this literal "number = " 3 times.(Çæäí
+g	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÙÀÇÏüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(§’£½ıÿÿÿÿ
+E
+java:S1611"/Remove the parentheses around the "s" parameter(ÏÕûÉ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ºÂ„úúÿÿÿÿ
+J
+java:S1611"/Remove the parentheses around the "s" parameter(°‹£üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Çæäí
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(—„·®ıÿÿÿÿ
+J
+java:S1611$"/Remove the parentheses around the "s" parameter(ÒÎÁùÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(ùä§ùÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+M	java:S106,"9Replace this use of System.out or System.err by a logger.(«ıİ+
+E
+java:S1611/"/Remove the parentheses around the "p" parameter(¤õ˜ÿ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(«Û¾¬ùÿÿÿÿ
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+M	java:S1066"9Replace this use of System.out or System.err by a logger.(«ıİ+
+J
+java:S16119"/Remove the parentheses around the "p" parameter(Å®¯¸ıÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(ä·ÆÙúÿÿÿÿ

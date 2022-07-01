@@ -1,0 +1,18 @@
+
+t
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñªÜ©ÿÿÿÿÿ
+]
+java:S1192"GDefine a constant instead of duplicating this literal " -->  " 3 times.(¯ôæ†
+„
+java:S13194"iThe type of "listNames" should be an interface such as "List" rather than the implementation "ArrayList".( ÃÛƒøÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‹¾‡ùÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ß«¥µÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(®²®úÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¯ôæ†
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(ÒíÚŞüÿÿÿÿ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(®²®úÿÿÿÿ
+N	java:S106."9Replace this use of System.out or System.err by a logger.(¯ôæ†
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(§§“ëşÿÿÿÿ
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(¯ôæ†

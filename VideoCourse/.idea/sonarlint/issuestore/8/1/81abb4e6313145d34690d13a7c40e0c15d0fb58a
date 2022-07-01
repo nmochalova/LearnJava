@@ -1,0 +1,16 @@
+
+9
+java:S1643"Use a StringBuilder instead.(±®ÿˆ8óÄ¾ç‹0
+9
+java:S1643"Use a StringBuilder instead.(—¸À¡8ƒÅ¾ç‹0
+t
+java:S1104"RMake vowels a static final constant or non-public and provide accessors if needed.(âôŠ”úÿÿÿÿ8„Å¾ç‹0
+N
+java:S1444",Make this "public static vowels" field final(âôŠ”úÿÿÿÿ8„Å¾ç‹0
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œÔ±Ñ
+?
+java:S2386"Make this member "protected".(âôŠ”úÿÿÿÿ8­Å¾ç‹0
+N
+java:S5261"1Add explicit curly braces to avoid dangling else.(—¸À¡8»Å¾ç‹0
+U	java:S106"9Replace this use of System.out or System.err by a logger.( ­Â­8¼Å¾ç‹0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(è‚¢è8¼Å¾ç‹0

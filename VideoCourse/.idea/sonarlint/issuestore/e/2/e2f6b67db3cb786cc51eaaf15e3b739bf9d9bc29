@@ -1,0 +1,25 @@
+
+{
+java:S2293%"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼Í¯îşÿÿÿÿ8©‘ÛÃ’0
+y
+java:S1104	"WMake threadCount a static final constant or non-public and provide accessors if needed.(ñĞ±Ëúÿÿÿÿ8©‘ÛÃ’0
+w
+java:S1104
+"UMake testArray a static final constant or non-public and provide accessors if needed.(”ä´Ñúÿÿÿÿ8©‘ÛÃ’0
+S
+java:S1444	"1Make this "public static threadCount" field final(ñĞ±Ëúÿÿÿÿ8©‘ÛÃ’0
+Q
+java:S1444
+"/Make this "public static testArray" field final(”ä´Ñúÿÿÿÿ8©‘ÛÃ’0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ı×¤şÿÿÿÿ
+?
+java:S2386
+"Make this member "protected".(”ä´Ñúÿÿÿÿ8È‘ÛÃ’0
+|
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(›°•Ì8È‘ÛÃ’0
+
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(˜İâœÿÿÿÿÿ8È‘ÛÃ’0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8Ø‘ÛÃ’0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Ø‘ÛÃ’0
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(ÊÁ’Ú8Ø‘ÛÃ’0
+T	java:S106!"9Replace this use of System.out or System.err by a logger.(„ÃÃ}8Ø‘ÛÃ’0

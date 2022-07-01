@@ -1,0 +1,42 @@
+
+H
+java:S1199O"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œÔ±Ñ
+‚
+java:S1130
+"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø
+N	java:S106Y"9Replace this use of System.out or System.err by a logger.(ýç·ç
+S	java:S106j"9Replace this use of System.out or System.err by a logger.(…ŠµÑüÿÿÿÿ
+V	java:S125q"<This block of commented-out lines of code should be removed.(£Æƒ£ùÿÿÿÿ
+S	java:S106z"9Replace this use of System.out or System.err by a logger.(å¯¿íúÿÿÿÿ
+h	java:S100~"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­âðýýÿÿÿÿ
+O	java:S106‰"9Replace this use of System.out or System.err by a logger.(¥ÊŸ§
+O	java:S106"9Replace this use of System.out or System.err by a logger.(Û¼§Ï
+V	java:S106"9Replace this use of System.out or System.err by a logger.(ÙÑíÞ8½Þ€¼„0
+[	java:S106‘"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8øä¼„0
+[	java:S106£"9Replace this use of System.out or System.err by a logger.(ŒŸ¼¥üÿÿÿÿ8æÞ«¼„0
+|
+java:S3012¼"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(“èÕÝþÿÿÿÿ8¸«Ù„0
+V	java:S106Ã"9Replace this use of System.out or System.err by a logger.(Æú’‘8‘¸«Ù„0
+I
+java:S1144"3Remove this unused private "readLineString" method.(ÂÍÈþ
+K
+java:S1144"0Remove this unused private "readLineInt" method.(ˆ²¤·ûÿÿÿÿ
+H
+java:S1144&"2Remove this unused private "arrayOneToTen" method.(ÓŒ¾
+H
+java:S11440"2Remove this unused private "arrayTenToOne" method.(œžÒ°
+O
+java:S1144:"4Remove this unused private "arrayZeroToNine" method.(Ô—Ãïÿÿÿÿÿ
+J
+java:S1144D"4Remove this unused private "arrayNineToZero" method.(í“ãù
+J
+java:S1144N"/Remove this unused private "printArray" method.(çÆ„øÿÿÿÿ
+H
+java:S1144_"-Remove this unused private "sumArray" method.(¹“¿­üÿÿÿÿ
+C
+java:S1144n"-Remove this unused private "minArray" method.(ýÆó€
+T
+java:S1144~"2Remove this unused private "PutInputArray" method.(­âðýýÿÿÿÿ8¦«®¼„0
+X
+java:S1144¯";Remove this unused private "oneBigArrayAndTwoSmall" method.(öä 48Ÿ½ªÙ„0

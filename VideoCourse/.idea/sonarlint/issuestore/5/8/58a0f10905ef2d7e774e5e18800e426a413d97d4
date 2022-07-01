@@ -1,0 +1,8 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œÔ±Ñ
+›
+java:S1130"~Remove the declaration of thrown exception 'JavaRushExamples.Exception2' which is a subclass of 'JavaRushExamples.Exception1'.(Óùœð8˜Ú Á‹0
+›
+java:S1130"~Remove the declaration of thrown exception 'JavaRushExamples.Exception3' which is a subclass of 'JavaRushExamples.Exception1'.(Óùœð8™Ú Á‹0
+K
+java:S2140")Use "java.util.Random.nextInt()" instead.(ØÙûÈýÿÿÿÿ8™Ú Á‹0
