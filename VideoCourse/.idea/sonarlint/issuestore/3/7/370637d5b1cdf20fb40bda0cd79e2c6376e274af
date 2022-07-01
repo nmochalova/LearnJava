@@ -1,0 +1,16 @@
+
+g	java:S112C"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8…¸„Æ›0
+r	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼‰àžþÿÿÿÿ8•¸„Æ›0
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œÔ±Ñ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Å–óÑ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(âÓÎºùÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜¬žûüÿÿÿÿ
+K
+java:S1854"6Remove this useless assignment to local variable "bd".(¾Ü§v
+<
+java:S1481"'Remove this unused "bd" local variable.(¾Ü§v
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹è×ùÿÿÿÿ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(è½å
+o	java:S1009"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“•¨Îüÿÿÿÿ8‚¹„Æ›0
+Q
+java:S1144'"/Remove this unused private "parserDate" method.(¼‰àžþÿÿÿÿ8‹¹„Æ›0

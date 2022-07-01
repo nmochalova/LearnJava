@@ -1,0 +1,31 @@
+
+k	java:S117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä¯óûÿÿÿÿ
+f	java:S117H"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğšÊÙ
+k	java:S117I"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª§ÁĞşÿÿÿÿ
+\
+java:S2184@"FCast one of the operands of this multiplication operation to a "long".(¥çˆç
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œÔ±Ñ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Õ´µŠ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¯â†÷ıÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(•˜ÀÕøÿÿÿÿ
+F
+java:S1874."0Remove this use of "getHours"; it is deprecated.(Á½Á
+M
+java:S1874/"2Remove this use of "getMinutes"; it is deprecated.(é¶Şˆıÿÿÿÿ
+M
+java:S18740"2Remove this use of "getSeconds"; it is deprecated.(ì‘®Îıÿÿÿÿ
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(Ê³áÏ
+K
+java:S18747"0Remove this use of "setHours"; it is deprecated.(”ü°ûÿÿÿÿ
+M
+java:S18748"2Remove this use of "setMinutes"; it is deprecated.(ùÆŸ¤ûÿÿÿÿ
+M
+java:S18749"2Remove this use of "setSeconds"; it is deprecated.(¢î¸“øÿÿÿÿ
+D
+java:S1874;"/Remove this use of "setDate"; it is deprecated.(³Ë¼B
+K
+java:S1874<"0Remove this use of "setMonth"; it is deprecated.(ıìÿÑıÿÿÿÿ
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(€Ñ¦äşÿÿÿÿ
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.(“Êßƒûÿÿÿÿ
+Z	java:S106X"9Replace this use of System.out or System.err by a logger.(€‹¡ıÿÿÿÿ8‘âú×‰0
+Z	java:S106]"9Replace this use of System.out or System.err by a logger.(§Í§Æøÿÿÿÿ8ŸÓ’Ø‰0
