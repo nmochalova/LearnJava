@@ -1,0 +1,17 @@
+
+^
+java:S2184"CCast one of the operands of this subtraction operation to a "long".(­‹êöûÿÿÿÿ
+f
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ŒÜùÛ
+f
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(³ØØ®
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ïÀ™•şÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ï¯‰Áşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(„ÆÔÇ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(„áËÎşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÏÉ‰
+M	java:S106 "9Replace this use of System.out or System.err by a logger.(§İê.
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(Ï¨İÍ
+J
+java:S1611'"/Remove the parentheses around the "s" parameter(İˆÚËùÿÿÿÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(æ‰ÚÒ

@@ -29,3 +29,13 @@ W
 'src/main/java/habr/testForEachPeek.java,1\b\1bf3b949ccc76524dbde0d0c03be1a24fc060bc7
 W
 'src/main/java/habr/testMapFunction.java,a\6\a6b2c1f27cbc3fd800574cfd719f486b41954c00
+S
+#src/main/java/habr/testCollect.java,2\8\28e6316edaf8bc232e62ef2a6aa014346d2e2ee5
+R
+"src/main/java/habr/testReduce.java,e\1\e1fc83340ebf07e8f3bc5a28597f91c08c0b0f60
+U
+%src/main/java/habr/ExampleFilter.java,0\e\0e3ca0ab329f1d1ea20984ac4f920824216d76f1
+R
+"src/main/java/habr/testMinMax.java,6\1\61b56d6856dfbeb850a1fe39caa05ea7011d5d4e
+S
+#src/main/java/habr/testHashMap.java,d\a\da5d13e0f71abc7cb6d86046f628123f1040c8da

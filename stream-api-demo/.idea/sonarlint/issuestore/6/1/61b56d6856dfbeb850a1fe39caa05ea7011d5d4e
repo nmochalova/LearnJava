@@ -1,0 +1,18 @@
+
+a	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Œë¶|
+f
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¢Ë³Ÿ
+e
+java:S3655+"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¹ö¦D
+k
+java:S3655'"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(½ˆàúÿÿÿÿ
+k
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(è‰—‘şÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(èä²íúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(´õÁùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÓÄĞœùÿÿÿÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(¯¹®¼
+Q	java:S125("<This block of commented-out lines of code should be removed.(¯¹®¼
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(Œş¤ğ
+Q	java:S125,"<This block of commented-out lines of code should be removed.(Œş¤ğ

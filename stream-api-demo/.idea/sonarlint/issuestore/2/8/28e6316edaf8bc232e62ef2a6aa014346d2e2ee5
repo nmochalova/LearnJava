@@ -1,0 +1,40 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ˆ€ƒäûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(¤«Ìi
+N	java:S106"9Replace this use of System.out or System.err by a logger.(®Íš
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÎŸ¡­şÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.( ßø
+J
+java:S1611%"/Remove the parentheses around the "p" parameter(ÉœÑüÿÿÿÿ
+J
+java:S1611%"/Remove the parentheses around the "p" parameter(ÉœÑüÿÿÿÿ
+M	java:S106&"9Replace this use of System.out or System.err by a logger.(†Å¨%
+P	java:S125&"<This block of commented-out lines of code should be removed.(†Å¨%
+J
+java:S1611)"/Remove the parentheses around the "p" parameter(ÕÒñËüÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(ı¦Ó¿üÿÿÿÿ
+V	java:S125*"<This block of commented-out lines of code should be removed.(ı¦Ó¿üÿÿÿÿ
+E
+java:S1611-"/Remove the parentheses around the "p" parameter(ş†¯¸
+E
+java:S1611-"/Remove the parentheses around the "p" parameter(ş†¯¸
+S	java:S106."9Replace this use of System.out or System.err by a logger.(ş´ñÔÿÿÿÿÿ
+V	java:S125."<This block of commented-out lines of code should be removed.(ş´ñÔÿÿÿÿÿ
+J
+java:S16114"/Remove the parentheses around the "p" parameter(ëë§èúÿÿÿÿ
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(ˆ¤îşÿÿÿÿ
+J
+java:S16118"/Remove the parentheses around the "p" parameter(¤Ğ¹üÿÿÿÿ
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(Í•¡İ
+E
+java:S1611<"/Remove the parentheses around the "p" parameter(²·é
+S	java:S106="9Replace this use of System.out or System.err by a logger.(ˆ¡“şÿÿÿÿ
+V	java:S125="<This block of commented-out lines of code should be removed.(ˆ¡“şÿÿÿÿ
+E
+java:S1611@"/Remove the parentheses around the "p" parameter(ı¯ğÖ
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(‚ÖíÓûÿÿÿÿ
+E
+java:S1611D"/Remove the parentheses around the "p" parameter(ÄÍÊ˜
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(•²½µşÿÿÿÿ
+V	java:S125E"<This block of commented-out lines of code should be removed.(•²½µşÿÿÿÿ
